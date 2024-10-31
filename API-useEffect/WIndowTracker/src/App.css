@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: darksalmon;
+  color: aliceblue;
+  margin: 0;
+  padding: 5rem;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  border: none;
+  border-radius: 5px;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+h1{
+  text-align: center;
+}
